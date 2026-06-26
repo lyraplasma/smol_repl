@@ -1,0 +1,3 @@
+* smol_repl
+
+I dunno, it's a shell wrapper
